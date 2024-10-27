@@ -9,9 +9,9 @@ function App() {
     <div className="App">
 
       {/* THIS IS LOGIN PAGE COMPONENT */}
-      {/* <Login /> */}
+      <Login />
       
-      <LandingPage/>
+      {/* <LandingPage/> */}
     </div>
   );
 }
